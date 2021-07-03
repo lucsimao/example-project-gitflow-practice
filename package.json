@@ -1,0 +1,11 @@
+{
+  "name": "projeto-exemplo-estudo-gitflow",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
